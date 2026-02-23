@@ -1,3 +1,4 @@
+# cost_price input
 cost_price = float(input("Enter cost price (in RS) : "))
 
 if(cost_price <= 0):

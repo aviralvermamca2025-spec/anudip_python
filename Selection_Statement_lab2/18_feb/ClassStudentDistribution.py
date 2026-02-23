@@ -1,3 +1,4 @@
+# student input
 students = 125
 eachClassHaveStudentes = 30
 

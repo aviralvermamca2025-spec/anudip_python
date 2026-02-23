@@ -1,3 +1,5 @@
+#basic_salary input
+# bonus input
 basic_salary = 25000
 bonus = 5000
 
